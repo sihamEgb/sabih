@@ -1,0 +1,20 @@
+.content {
+    word-break: break-all;
+    white-space: normal;
+}
+
+#beforeJoining {
+    visibility: visible;
+}
+
+#afterJoining {
+    visibility: hidden;
+}
+
+label{
+    visibility: hidden;
+}
+.messageBox{
+    border: groove;
+    border-radius: 10px;
+}
