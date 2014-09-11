@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node app.js"
   },
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/sihamEgb/sabih"
+  },
   "dependencies": {
     "body-parser": "~1.0.0",
     "cookie-parser": "~1.0.1",
